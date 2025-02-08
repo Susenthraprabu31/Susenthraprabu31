@@ -2,7 +2,8 @@
 
 WEB DEVELOPER
 <img align="right" width="370" height="290" src="https://i.pinimg.com/originals/47/f0/34/47f0342cec72b800463bf003eac1257e.gif">
-- 🔭 Here's my [portfolio](https://susenthraprabu-2002.netlify.app/)                                                 
+- 🔭 Here's my [Portfolio](https://susenthraprabu-2002.netlify.app/)
+- 🔭 Here's my [Resume](https://drive.google.com/file/d/1F4wSxbv8MwAPV4ZbxvR2cqjR9Xi1UVyc/view?usp=drive_link)                                            
 - 🌱 I’m currently learning new Technologies
 - Social Presence
 <br /> [<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />](www.linkedin.com/in/susenthraprabu) <br/> [<img src="https://img.shields.io/badge/instagram-d62976?style=for-the-badge&logo=instagram&logoColor=white" />](https://www.instagram.com/_itz_me_starboy/)
